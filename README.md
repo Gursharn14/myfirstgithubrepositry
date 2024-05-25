@@ -1,3 +1,3 @@
 # myfirstgithubrepositry
 First repository
-Readme has been updated by VS code editior
+This line was modified manually during conflict resolution
